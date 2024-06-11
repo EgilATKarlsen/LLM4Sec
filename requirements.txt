@@ -1,0 +1,10 @@
+torch
+numpy
+matplotlib
+scikit-learn
+tqdm
+pandas
+transformers
+datasets
+evaluate
+huggingface_hub
