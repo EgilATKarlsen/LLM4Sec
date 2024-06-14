@@ -2,7 +2,7 @@
 
 If you want to use this pipeline for log file analysis, please cite my following journal and conference publications. These papers detail further information about the pipeline and the methodology I designed and developed to analyze different log files for cybersecurity:
 
-1. **Egil Karlsen, Xiao Luo, Nur Zincir-Heywood, Malcolm Heywood**; *Benchmarking Large Language Models for Log Analysis, Security, and Interpretation*; in the Journal of Network and Systems Management, SpringerNature, 2024.
+1. **Egil Karlsen, Xiao Luo, Nur Zincir-Heywood, Malcolm Heywood**; *Benchmarking Large Language Models for Log Analysis, Security, and Interpretation*; in the Journal of Network and Systems Management, SpringerNature, 2024, doi: [10.1007/s10922-024-09831-x](https://doi.org/10.1007/s10922-024-09831-x).
 
 2. **Egil Karlsen, Xiao Luo, Nur Zincir-Heywood, Malcolm Heywood**; *Large language models and unsupervised feature learning: implications for log analysis*, in the Annals of Telecommunications, SpringerNature, 2024, doi: [10.1007/s12243-024-01028-2](https://doi.org/10.1007/s12243-024-01028-2).
 
